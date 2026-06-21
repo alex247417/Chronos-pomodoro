@@ -24,6 +24,6 @@
 }
 
 .logoLink:hover{
-     color: var(--link-hover);
-     transition: color 0.3s ease-in-out;
+     filter: brightness(80%);
+     transition: filter 0.1s ease-in-out;
 }
