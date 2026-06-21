@@ -1,0 +1,6 @@
+.conteiner{
+    font-size: clamp(8rem, 30vw, 15rem);
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.8;
+}
